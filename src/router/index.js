@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Jeapordy from '@/components/jeapordy/Jeapordy';
+import Jeapordy from '@/components/jeopardy/Jeopardy';
 import Games from '@/components/Games';
 
 Vue.use(Router);

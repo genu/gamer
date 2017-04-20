@@ -10,7 +10,7 @@
           v-icon.mr-5 card_membership
           div: div Game of jeopardy
       v-card-row(actions)
-        v-btn.primary.dark(to="/jeapordy", router="true") Create
+        v-btn.primary.dark(to="/jeapordy", :router="true") Create
 </template>
 
 <script>

@@ -1,6 +1,5 @@
-# gamer
-
-> A Vue.js project
+# Game Maker
+![Alt text](/screenshots/screenshot1.png)
 
 ## Build Setup
 
